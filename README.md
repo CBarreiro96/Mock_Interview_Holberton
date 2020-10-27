@@ -15,7 +15,8 @@
 * Input format: One line, one word
 * Output format: One line, one word
 * Words should be sorted
-[Script_list of word]()
+
+[Script_list of word](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Script_list_of_word)
 >Note: you need to created a list
 ### 1) Who are you?
 ##### :interrobang: Write a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally).
@@ -43,6 +44,7 @@ And, write a class SinglyLinkedList that defines a singly linked list by:
      * one node number by line
  * Public instance method: def sorted_insert(self, value): that inserts a new Node into the correct sorted position in the list (increasing order)
  * You are not allowed to import any module
+![Singles_list_class.py](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Single_list_class.py)
 ## 3) The eggs of the brood need to be an odd number
 ##### :interrobang: Write a script that prints every other line from the input, starting with the first line.
 >Ubuntu$ \ls -1 | ./101-odd
@@ -76,6 +78,7 @@ And, write a class SinglyLinkedList that defines a singly linked list by:
 >vmlinuz
 >
 >Ubuntu$
+![print_each_two_line](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/print_each_two_line)
 ## 4)  It is a good file that cuts iron without making a noise 
 ##### :interrobang: Write a shell script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
-
+![Name_exactly](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Name_exactly)
