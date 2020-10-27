@@ -18,4 +18,4 @@
 [Script_list of word]()
 >Note: you need to created a list
 #####  :interrobang:Where am I?
-Hola
+
