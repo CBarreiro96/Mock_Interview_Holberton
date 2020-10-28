@@ -82,3 +82,10 @@ And, write a class SinglyLinkedList that defines a singly linked list by:
 ## 4)  It is a good file that cuts iron without making a noise 
 ##### :interrobang: Write a shell script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
 ![Name_exactly](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Name_exactly)
+## 5) I feel like I am diagonally parked in a parallel universe 
+##### :interrobang: write a function that draws a diagonal  line  on the terminal
+    * Prototype **def print_diagonal(n)**
+	* Where **n** is the number of times the character **\** should be printed
+	* The diagonal should end with a **\n**
+	* if **n** is **0** or less, the function should only print a **\n**
+	* You are not allowed to import any module
