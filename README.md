@@ -5,6 +5,7 @@
 ### 2) What happens when you type `gcc main.c`?
 [Gcc.txt](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Gcc.txt)
 ### 3) What is a queue, and how does it work?
+
 [Queue.txt]()
 ### 4) What is a static method?
 >Rta:A static method is a method inside a Class but not linked to this class or to an instance.
@@ -27,15 +28,15 @@
 > In operation
 ### 2) Singly linked list
 ##### :interrobang: Write a class Node that defines a node of a singly linked list by:
-    * Private instance attribute: data:
-    * property def data(self): to retrieve it
-    * property setter def data(self, value): to set it:
-    * data must be an integer, otherwise raise a TypeError exception with the message data must be an integer
-           * Private instance attribute: next_node:
-           * property def next_node(self): to retrieve it
-           * property setter def next_node(self, value): to set it:
-               * next_node can be None or must be a Node, otherwise raise a TypeError exception with the message next_node must be a Node object
-           * Instantiation with data and next_node: def __init__(self, data, next_node=None):
+ * Private instance attribute: data:
+ * property def data(self): to retrieve it
+ * property setter def data(self, value): to set it:
+ * data must be an integer, otherwise raise a TypeError exception with the message data must be an integer
+    * Private instance attribute: next_node:
+    * property def next_node(self): to retrieve it
+    * property setter def next_node(self, value): to set it:
+    * next_node can be None or must be a Node, otherwise raise a TypeError exception with the message next_node must be a Node object
+    * Instantiation with data and next_node: def __init__(self, data, next_node=None):
 And, write a class SinglyLinkedList that defines a singly linked list by:
  * Private instance attribute: head (no setter or getter)
  * Simple instantiation: def __init__(self):
@@ -44,6 +45,7 @@ And, write a class SinglyLinkedList that defines a singly linked list by:
      * one node number by line
  * Public instance method: def sorted_insert(self, value): that inserts a new Node into the correct sorted position in the list (increasing order)
  * You are not allowed to import any module
+
 [Singles_list_class.py](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Single_list_class.py)
 ## 3) The eggs of the brood need to be an odd number
 ##### :interrobang: Write a script that prints every other line from the input, starting with the first line.
@@ -78,16 +80,18 @@ And, write a class SinglyLinkedList that defines a singly linked list by:
 >vmlinuz
 >
 >Ubuntu$
+
 [print_each_two_line](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/print_each_two_line)
 ## 4)  It is a good file that cuts iron without making a noise 
 ##### :interrobang: Write a shell script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
-![Name_exactly](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Name_exactly)
+
+[Name_exactly](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Name_exactly)
 ## 5) I feel like I am diagonally parked in a parallel universe 
 ##### :interrobang: write a function that draws a diagonal  line  on the terminal
-    * Prototype **def print_diagonal(n)**
-	* Where **n** is the number of times the character **\** should be printed
-	* The diagonal should end with a **\n**
-	* if **n** is **0** or less, the function should only print a **\n**
-	* You are not allowed to import any module
+ * Prototype **def print_diagonal(n)**
+ * Where **n** is the number of times the character **\** should be printed
+ * The diagonal should end with a **\n**
+ * if **n** is **0** or less, the function should only print a **\n**
+ * You are not allowed to import any module
 
 [Diagonal.py](https://github.com/CBarreiro96/Mock_Interview_Holberton/blob/main/Diagonal.py)
