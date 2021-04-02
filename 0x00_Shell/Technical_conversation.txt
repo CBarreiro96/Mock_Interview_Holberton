@@ -1,0 +1,20 @@
+===================================================== Technical conversation ======================================
+In this file you are going to find the question about shell:
+
+--1) What command would you use to list files on Linux?
+    **RTA: __ls__
+
+--2) 'echo r | ls -l'
+    **Rta :  This command print r and with pipeline list the long format
+ 
+--3) What does LTS stand for? What is the difference between LTS and a non-LTS version of Ubuntu?
+    **Rta:
+
+--4) When do you use 'man', and when do you use 'help'?
+    **Rta:
+
+--5) What is the '/tmp' directory?
+    **Rta:
+
+--6) What is the difference between a hard link and a symbolic link?
+    **Rta;
