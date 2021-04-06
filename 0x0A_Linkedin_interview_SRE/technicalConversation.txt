@@ -1,0 +1,19 @@
+=============================================== Technical conversation ===============================================
+
+ 1. What are the most common limiting resources of a server?
+    RTA:
+ 2. What is the main role of a web server?
+    RTA:
+ 3. What Linux signals can you use to terminate a process?
+    RTA:
+ 4. What is the main role of DNS?
+    RTA:
+ 5. What is a DNS CNAME record?
+    RTA:
+ 6. It is the third time that you are being asked to perform the same task, and it looks like you will be asked again, what should you do?
+    RTA
+ 7. What’s the role of an SRE?
+    RTA:
+ 8. What does SRE stand for?
+    RTA:
+ 

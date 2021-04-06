@@ -1,0 +1,13 @@
+=============================== Conversation - Warming-up =========================================
+ 1. What happens when you type `gcc main.c`?
+    Rta:
+ 2.Who created the Python programming language?
+   Rta: Guido van Rossum
+ 3.What’s the syntax of the switch/case in Python?
+   Rta:
+ 4.What’s the purpose of `if __name__ == '__main__’:` in Python?
+   Rta:
+ 5.What’s the significance of overwriting a method in OOP?
+   Rta:
+
+

@@ -1,0 +1,30 @@
+================================== Conversation-Warming-up =======================================================
+
+ 1. What is the time complexity of the best quick sort algorithm in an array of size n?
+    RTA:
+ 2. What’s a foreign key?
+    RTA:
+ 3. What is the main function of a firewall?
+    RTA:
+ 4. Name one software alternative to SQLAlchemy module as ORM Python?
+    RTA:
+ 5. What is `UDP`?
+    RTA:
+ 6. What is the name of the HTTP request header that defines the size (in bytes) of the message body?
+    RTA:
+ 7. What is the time complexity of a basic binary search algorithm in an array of size n?
+    RTA:
+ 8. What does OSI mean?
+    RTA:
+ 9. What’s the difference between a set and a list?
+    RTA:
+ 10.What’s a subquery in SQL?
+    RTA:
+ 11.By default, which port Nginx or Apache are listening to?
+    RTA:
+ 12.What specifically do you use Puppet for?
+    RTA:
+ 13.In Python, What is `__str__` method?
+    RTA:
+ 14.What’s the base 2 value (in 8 bits) of this base 10 number: `89` ?
+    RTA:
