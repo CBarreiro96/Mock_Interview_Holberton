@@ -5,17 +5,17 @@
 ## :memo: Activities :memo:
 ### <u>Technical Conversation</u>
 <details>
-    <summary><b style="color:blue">1. Who created the Python programming language?</b></summary>
+    <summary><b>1⃣ Who created the Python programming language?</b></summary>
     
     Guido van Rossum
 </details>
 <details>
-    <summary><b><font color="red">2.</font> What happens when you type <code>gcc main.c</code>?<b></summary>
+    <summary><b>2. What happens when you type <code>gcc main.c</code>?<b></summary>
     
     xxx
 </details>
 <details>
-    <summary><b><font color="red">2.</font> What happens when you type <code>gcc main.c</code>?<b></summary>
+    <summary><b>2. What happens when you type <code>gcc main.c</code>?<b></summary>
     
     xxx
 </details>
