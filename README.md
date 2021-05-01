@@ -144,14 +144,14 @@
                     <li><b>Arrays are not pointers</b> <i>"Arrays are not pointers"</i></li>
                     <li><b>Exercise #2:</b> <i>" Inception. Now, before you bother telling me it's impossible..."</i> </li>
                     <li><b>Exercise #3:</b> <i>"I feel like I am diagonally parked in a parallel universe"</i></li>
-                    <li><b>Exercise #4</b> <i>"She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget"</i><li>
-                    <li><b>Exercise #5</b> <i>" A to Z"</i><li>
-                    <li><b>Exercise #6</b> <i>" Twitter"</i><li>
-                    <li><b>Exercise #7</b> <i>"The eggs of the brood need to be an odd number"</i><li>
-                    <li><b>Exercise #8</b> <i>"Hidden files"</i><li>
-                    <li><b>Exercise #9</b> <i>"Confused smiley"</i><li>
-                    <li><b>Exercise #10</b> <i>" I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"</i><li>
-                    <li><b>Exercise #11</b> <i>" Fizz-Buzz"</i><li>
+                    <li><b>Exercise #4</b> <i>"She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget"</i></li>
+                    <li><b>Exercise #5</b> <i>" A to Z"</i></li>
+                    <li><b>Exercise #6</b> <i>" Twitter"</i></li>
+                    <li><b>Exercise #7</b> <i>"The eggs of the brood need to be an odd number"</i></li>
+                    <li><b>Exercise #8</b> <i>"Hidden files"</i></li>
+                    <li><b>Exercise #9</b> <i>"Confused smiley"</i></li>
+                    <li><b>Exercise #10</b> <i>" I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"</i></li>
+                    <li><b>Exercise #11</b> <i>" Fizz-Buzz"</i></li>
                 </ul>
             </td>
         </tr>
@@ -163,9 +163,13 @@
             </div>
             </center> </th>
             <td>
-                <h4></h4>
+                <h4>General conversation</h4>
                 <ul>
-                    <li></li>
+                    <li>Tell me about you?</li>
+                    <li>What are your weaknesses?</li>
+                    <li>In 3 words: why should I hire you?</li>
+                    <li>What would get on your nerves – professionally speaking?</li>
+                    <li>Tell me about a time you knew you were right but still had to follow directions or guidelines</li>
                 </ul>
                 <h4>Technical conversation</h4>
                 <ul>
