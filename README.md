@@ -4,7 +4,7 @@
 
 ## :scroll: Description :scroll:
 ---
-<h3 align="center">Content of repository</h3>
+<h3 align="center">📖 Repository content 📖</h3>
 <div align="center">
     <table>
         <tr>
