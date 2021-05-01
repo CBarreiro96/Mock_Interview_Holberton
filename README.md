@@ -12,7 +12,10 @@
             <th align="center">Content </th>
         </tr>
         <tr>
-            <th align="center"><center>0x00_Shell</center></th>
+            <th align="center"><center>0x00_Shell
+            <br>
+            <div align="center"><img src="https://user-images.githubusercontent.com/66263776/116768558-032c7f80-a9fd-11eb-8ab6-475b7f7cf4ce.png" width="60" height= "60"> </div>
+            </center></th>
             <td>
                 <h4>General conversation</h4>
                 <ul>
@@ -34,7 +37,12 @@
             </td>
         </tr>
         <tr>
-            <th align="center"><center>0x01_Shell_C</center></th>
+            <th align="center"><center>0x01_Shell_C
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768558-032c7f80-a9fd-11eb-8ab6-475b7f7cf4ce.png" width="40" height= "40"> <img src="https://user-images.githubusercontent.com/66263776/116768630-9e255980-a9fd-11eb-811e-b072999448e0.png" width="40" height= "40">
+            </div>
+            </center></th>
             <td>
                 <h4>General conversation</h4>
                 <ul>
@@ -67,7 +75,12 @@
             </td>
         </tr>
         <tr>
-            <th align="center"><center>0x02_Shell_C</center></th>
+            <th align="center"><center>0x02_Shell_C
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768558-032c7f80-a9fd-11eb-8ab6-475b7f7cf4ce.png" width="40" height= "40"> <img src="https://user-images.githubusercontent.com/66263776/116768630-9e255980-a9fd-11eb-811e-b072999448e0.png" width="40" height= "40">
+            </div>
+            </center></th>
             <td>
                 <h4>General conversation</h4>
                 <ul>
@@ -95,42 +108,82 @@
             </td>
         </tr>
         <tr>
-            <th align="center"><center>0x03_Shell_C</center></th>
+            <th align="center"><center>0x03_Shell_C
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768558-032c7f80-a9fd-11eb-8ab6-475b7f7cf4ce.png" width="40" height= "40"> <img src="https://user-images.githubusercontent.com/66263776/116768630-9e255980-a9fd-11eb-811e-b072999448e0.png" width="40" height= "40">
+            </div>
+            </center></th>
             <td>
             </td>
         </tr>
         <tr>
-            <th align="center"><center>0x04 - Shell, C</center> </th>
+            <th align="center"><center>0x04 - Shell, C
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768558-032c7f80-a9fd-11eb-8ab6-475b7f7cf4ce.png" width="40" height= "40"> <img src="https://user-images.githubusercontent.com/66263776/116768630-9e255980-a9fd-11eb-811e-b072999448e0.png" width="40" height= "40">
+            </div>
+            </center> </th>
             <td>
             </td>
         </tr>
         <tr>
-            <th align="center"><center> 0x05 - Shell, C, Python </center> </th>
+            <th align="center"><center> 0x05 - Shell, C, Python 
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768558-032c7f80-a9fd-11eb-8ab6-475b7f7cf4ce.png" width="40" height= "40"> <img src="https://user-images.githubusercontent.com/66263776/116768630-9e255980-a9fd-11eb-811e-b072999448e0.png" width="40" height= "40"><img src="https://user-images.githubusercontent.com/66263776/116768661-f9574c00-a9fd-11eb-9555-d6b51cd3aa3f.png" width="40" height= "40">
+            </div>
+            </center> </th>
             <td>
             </td>
         </tr>
         <tr>
-            <th align="center"><center> 0x06 - Shell, C, Python  </center> </th>
+            <th align="center"><center> 0x06 - Shell, C, Python 
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768558-032c7f80-a9fd-11eb-8ab6-475b7f7cf4ce.png" width="40" height= "40"> <img src="https://user-images.githubusercontent.com/66263776/116768630-9e255980-a9fd-11eb-811e-b072999448e0.png" width="40" height= "40"><img src="https://user-images.githubusercontent.com/66263776/116768661-f9574c00-a9fd-11eb-9555-d6b51cd3aa3f.png" width="40" height= "40">
+            </div>
+            </center> </th>
             <td>
             </td>
         </tr>
         <tr>
-            <th align="center"><center> 0x07 - Google interview </center> </th>
+            <th align="center"><center> 0x07 - Google interview 
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768696-2efc3500-a9fe-11eb-8e29-26ddab39604f.png" width="50" height= "50">
+            </div>
+            </center> </th>
             <td>
             </td>
         </tr>
         <tr>
-            <th align="center"><center> 0x08 - Lyft interview </center> </th>
+            <th align="center"><center> 0x08 - Lyft interview
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768723-6f5bb300-a9fe-11eb-9fbb-037423f3a1c0.png" width="50" height= "50">
+            </div>
+            </center> </th>
             <td>
             </td>
         </tr>
         <tr>
-            <th align="center"><center>  0x09 - Netflix interview </center> </th>
+            <th align="center"><center>  0x09 - Netflix interview
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768747-a6ca5f80-a9fe-11eb-907c-79f74196a4f9.png" width="50" height= "50">
+            </div>
+            </center> </th>
             <td>
             </td>
         </tr>
         <tr>
-            <th align="center"><center>  0x0A - Linkedin interview - SRE </center> </th>
+            <th align="center"><center>  0x0A - Linkedin interview - SRE
+            <br>
+            <div align="center">
+            <img src="https://user-images.githubusercontent.com/66263776/116768778-ce212c80-a9fe-11eb-906d-17336d9e7373.png" width="50" height= "50">
+            </div>
+            </center> </th>
             <td>
             </td>
         </tr>
