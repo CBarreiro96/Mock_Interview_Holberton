@@ -280,6 +280,66 @@
             </div>
             </center> </th>
             <td>
+                <h4>General conversation</h4>
+                <ul>
+                    <li>Why do you want to work here?</li>
+                    <li>Is there anything that you would like to ask me?</li>
+                    <li>What motivates you?</li>
+                    <li> What makes a good team player?</li>
+                    <li>What is your salary expectation?</li>
+                </ul>
+                <h4>Technical conversation</h4>
+                <ul>
+                    <li>Who created the Python programming language?</li>
+                    <li>Tuple or not?</li>
+                    <li>What happens when you type <code>gcc main.c</code>?</li>
+                    <li>And with a list, is it the same</li>
+                    <li>What is a queue, and how does it work?</li>
+                    <li> What is a static method?</li>
+                    <li>What is the difference between a class and an object or instance?</li>
+                    <li>What is a pointer?</li>
+                    <li>What is a shell</li>
+                    <li>Where does the name Python come from?</li>
+                    <li>Who wrote Emacs?</li>
+                    <li>List incrementation</li>
+                    <li>Is really equal</li>
+                    <li>What is the difference between a terminal and a shell?</li>
+                    <li>What is the difference between Git and GitHub?</li>
+                    <li>What is the difference between a hard link and a symbolic link?</li>
+                    <li>What is the <code>/etc/shadow</code> file and what is its format?</li>
+                    <li>Who created the C programming language?</li>
+                    <li>What is the shell prompt?</li>
+                    <li>List add</li>
+                    <li>What is mutable and immutable?</li>
+                    <li>What does <code>type()</code> return?</li>
+                    <li>Right count =+</li>
+                    <li>How to dynamically create arbitrary new attributes for existing instances of a class?</li>
+                </ul>
+                <h4>Hands-on</h4>
+                <ul>
+                    <li><b>Exercise #1 :</b> <i>"Being unique is better than being perfect"</i> </li>
+                    <li><b>Exercise #2 :</b> <i>"Where am I?"</i> </li>
+                    <li><b>Exercise #3 :</b> <i>" Who are you?"</i> </li>
+                    <li><b>Exercise #4 :</b> <i>"Change representation"</i> </li>
+                    <li><b>Exercise #5 :</b> <i>"Singly linked list"</i> </li>
+                    <li><b>Exercise #6 :</b> <i>"The eggs of the brood need to be an odd number"</i> </li>
+                    <li><b>Exercise #7 :</b> <i>"Delete by value"</i> </li>
+                    <li><b>Exercise #8 :</b> <i>"It is a good file that cuts iron without making a noise"</i> </li>
+                    <li><b>Exercise #9 :</b> <i>"Fizz-Buzz"</i> </li>
+                    <li><b>Exercise #10 :</b> <i>"Area and Perimeter"</i> </li>
+                    <li><b>Exercise #11 :</b> <i>"Smile in the mirror"</i> </li>
+                    <li><b>Exercise #12 :</b> <i>"Can you C me now?"</i> </li>
+                    <li><b>Exercise #13 :</b> <i>"Lists of lists = Matrix"</i> </li>
+                    <li><b>Exercise #14 :</b> <i>"strcpy"</i> </li>
+                    <li><b>Exercise #15 :</b> <i>"10"</i> </li>
+                    <li><b>Exercise #16 :</b> <i>"Positive anything is better than negative nothing"</i> </li>
+                    <li><b>Exercise #17 :</b> <i>" Update dictionary"</i></li>
+                </ul>
+                <h4>Whiteboard / paper only</h4>
+                <ul>
+                    <li><b>Exercise #1 :</b> <i>"Delete at index"</i> </li>
+                    <li><b>Exercise #2 :</b> <i>"Stacks Sharing an Array"</i></li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -290,6 +350,37 @@
             </div>
             </center> </th>
             <td>
+                <h4>Conversation - About you</h4>
+                <ul>
+                    <li>How do you handle stress and pressure?</li>
+                    <li>What are your goals for the future?</li>
+                    <li>What is your greatest weakness?</li>
+                    <li>Why should we hire you?</li>
+                    <li>What can you do better for us than the other applicants?</li>
+                </ul>
+                <h4>Conversation - Company questions</h4>
+                <ul>
+                    <li>When was Google’s IPO?</li>
+                    <li>Who founded Google?</li>
+                    <li>Give me 5 Google products (products/service/projects)?</li>
+                    <li>Where is Google HQ?</li>
+                </ul>
+                <h4>Conversation - Warming-up</h4>
+                <ul>
+                    <li>What happens when you type <code>gcc main.c</code>?</li>
+                    <li>Who created the Python programming language?</li>
+                    <li>What’s the syntax of the switch/case in Python?</li>
+                    <li>What’s the purpose of <code>if __name__ == '__main__’:</code> in Python?</li>
+                    <li>What’s the significance of overwriting a method in OOP?</li>
+                </ul>
+                <h4>Phone screen interview</h4>
+                <ul>
+                    <li><b>Exercise #1 :</b> <i>"Multiplication table"</i></li>
+                </ul>
+                <h4>Whiteboarding</h4>
+                <ul>
+                    <li><b>Exercise #1 :</b> <i>"Maximum sum subarray"</i></li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -300,6 +391,43 @@
             </div>
             </center> </th>
             <td>
+                <h4>Conversation - About you</h4>
+                <ul>
+                    <li>Name a time you solved a problem creatively</li>
+                    <li>What makes you want to work for Lyft?</li>
+                    <li>Why do you want to leave your current position?</li>
+                    <li>Tell me about a time when you had to learn something on your own?</li>
+                    <li>Tell me about a time where you had to bend the rules to help someone</li>
+                </ul> 
+                <h4>Conversation - Company questions</h4>
+                <ul>
+                    <li>Who founded Lyft?</li>
+                    <li>What was the average salary of a software engineer at Lyft in 2017?</li>
+                    <li>What was the valuation of Lyft in 2017?</li>
+                    <li>Where is the first Lyft HQ?</li>
+                </ul>
+                <h4>Conversation - Warming-up</h4>
+                <ul>
+                    <li>What happens when you type `gcc main.c`? Tell me about the different steps of compilation.</li>
+                    <li>What’s the most common command to terminate a process?</li>
+                    <li>What does OSI mean?</li>
+                    <li>How do you transform a directory to a package in Python?</li>
+                    <li>Why are all SQL keywords uppercase?</li>
+                    <li>Who created the Python programming language?</li>
+                    <li>Which port number is HTTPS?</li>
+                    <li>Which port number is HTTP?</li>
+                    <li>What is a selector in CSS?</li>
+                    <li>How do you add inline style to a tag in HTML?</li>
+                </ul>
+                <h4>Phone screen interview</h4>
+                <ul>
+                    <li>Linked list: 2 nodes distance</li>
+                </ul>
+                <h4></h4>
+                <ul>
+                    <li><b>Exercise #1:</b> <i>"Merge K Sorted Arrays"</i></li>
+                    <li><b>Exercise #1:</b> <i>"Find a peak element in an array"</i></li>
+                </ul>    
             </td>
         </tr>
         <tr>
@@ -310,6 +438,52 @@
             </div>
             </center> </th>
             <td>
+                <h4>Conversation - About you</h4>
+                <ul>
+                    <li>Name a time you helped a coworker out</li>
+                    <li>Tell me about a time when you had to learn something on your own?</li>
+                    <li>What makes you want to work for Netflix?</li>
+                    <li>Tell me about a time when you had to act very quickly to make a decision about a problem. What was the situation and what did you do?</li>
+                    <li>Tell me about a time where you had to bend the rules to help someone</li>
+                </ul>
+                <h4>Conversation - Company questions</h4>
+                <ul>
+                    <li>How many countries is Netflix available in now?</li>
+                    <li>What is the average salary of a senior software engineer at Netflix?</li>
+                    <li>Name one competitor in 2017?</li>
+                    <li>Who founded Netflix?</li>
+                </ul>
+                <h4>Conversation - Warming-up</h4>
+                <ul>
+                    <li>What is the time complexity of the best quick sort algorithm in an array of size n?</li>
+                    <li>What’s a foreign key?</li>
+                    <li>What is the main function of a firewall?</li>
+                    <li>Name one software alternative to SQLAlchemy module as ORM Python?</li>
+                    <li>What is `UDP`?</li>
+                    <li>What is the name of the HTTP request header that defines the size (in bytes) of the message body?</li>
+                    <li>What is the time complexity of a basic binary search algorithm in an array of size n?</li>
+                    <li>What does OSI mean?</li>
+                    <li>What’s the difference between a set and a list?</li>
+                    <li>What’s a subquery in SQL?</li>
+                    <li>By default, which port Nginx or Apache are listening to?</li>
+                    <li>What specifically do you use Puppet for?</li>
+                    <li> In Python, What is <code>__str__</code> method?</li>
+                    <li> What’s the base 2 value (in 8 bits) of this base 10 number: <code>89</code>?</li>
+                </ul>
+                <h4>Phone screen interview</h4>
+                <ul>
+                    <li><b>Exercise # :</b> <i>"Explain how to calculate the size of a binary tree"</i> </li>
+                </ul>
+                <h4>Code</h4>
+                <ul>
+                    <li><b>Exercise #1 :</b> <i>"Delete at index"</i> </li>
+                    <li><b>Exercise #2:</b> <i>"Depth"</i> </li>
+                    <li><b>Exercise #3 :</b> <i>"Insert in sorted linked list"</i></li>
+                </ul>
+                <h4>Whiteboarding</h4>
+                <ul>
+                    <li><b>Exercise #1 :</b> <i>"Plants need water"</i> </li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -320,6 +494,46 @@
             </div>
             </center> </th>
             <td>
+                <h4>General conversation</h4>
+                <ul>
+                    <li>What type of SRE projects would you like to work on?</li>
+                    <li>Is there anything that you would like to ask me?</li>
+                    <li>What makes someone a good team player?</li>
+                    <li>Why do you want to work here?</li>
+                    <li>What motivates you in taking an SRE position?</li>
+                    <li>What is your salary expectation?</li>
+                </ul>
+                <h4>Technical conversation</h4>
+                <ul>
+                    <li>What are the most common limiting resources of a server?</li>
+                    <li>What is the main role of a web server?</li>
+                    <li>What Linux signals can you use to terminate a process?</li>
+                    <li>What is the main role of DNS?</li>
+                    <li>What is a DNS CNAME record?</li>
+                    <li> It is the third time that you are being asked to perform the same task, and it looks like you will be asked again, what should you do?</li>
+                    <li>What’s the role of an SRE?</li>
+                    <li>What does SRE stand for?</li>
+                </ul>
+                <h4>Hands-on</h4>
+                <ul>
+                    <li><b>Exercise # :</b> <i>"What command returns the operating system version?"</i></li>
+                    <li><b>Exercise # :</b> <i>"What command displays the network interfaces IP addresses?"</i></li>
+                    <li><b>Exercise # :</b> <i>"2nd field"</i></li>
+                    <li><b>Exercise # :</b> <i>"What do you use to manage services (start/stop/restart…)?"</i></li>
+                    <li><b>Exercise # :</b> <i>"What command returns disk usage?"</i></li>
+                    <li><b>Exercise # :</b> <i>"What command shows system uptime?"</i></li>
+                    <li><b>Exercise # :</b> <i>"Web infrastructure"</i></li>
+                    <li><b>Exercise # :</b> <i>"What command returns the kernel version a Linux system is running?"</i></li>
+                    <li><b>Exercise # :</b> <i>"What command shows CPU usage for a process?"</i></li>
+                    <li><b>Exercise # :</b> <i>"What command returns the size of a directory (including its content), in human readable format?"</i></li>
+                    <li><b>Exercise # :</b> <i>"Holberton list"</i></li>
+                    <li><b>Exercise # :</b> <i>"Query API"</i></li>
+                </ul>
+                <h4>Soft skills</h4>
+                <ul>
+                    <li>Post-mortem</li>
+                    <li>Code review</li>
+                </ul>
             </td>
         </tr>
         <tr>
