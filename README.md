@@ -190,20 +190,20 @@
                 </ul>
                 <h4></h4>
                 <ul>
-                    <li><b>Exercise #</b> <i>"What’s new"</i></li>
-                    <li><b>Exercise #</b> <i>"I do not fear computers. I fear the lack of them"</i></li>
-                    <li><b>Exercise #</b> <i>" Neither irony nor sarcasm is argument"</i></li>
-                    <li><b>Exercise #</b> <i>"It is a good file that cuts iron without making a noise"</i></li>
-                    <li><b>Exercise #</b> <i>"Set string"</i></li>
-                    <li><b>Exercise #</b> <i>"You are so much sunshine in every square inch"</i></li>
-                    <li><b>Exercise #</b> <i>"The biggest fan"</i></li>
-                    <li><b>Exercise #</b> <i>"Why is it so important to dream? Because, in my dreams we are together"</i></li>
-                    <li><b>Exercise #</b> <i>" It is the addition of strangeness to beauty that constitutes the romantic character in art"</i></li>
-                    <li><b>Exercise #</b> <i>"Where am I?"</i></li>
-                    <li><b>Exercise #</b> <i>" Fizz-Buzz"</i></li>
-                    <li><b>Exercise #</b> <i>"Numbers"</i></li>
-                    <li><b>Exercise #</b> <i>" strcpy"</i></li>
-                    <li><b>Exercise #</b> <i>"Remove duplicates"</i></li>
+                    <li><b>Exercise #1:</b> <i>"What’s new"</i></li>
+                    <li><b>Exercise #2:</b> <i>"I do not fear computers. I fear the lack of them"</i></li>
+                    <li><b>Exercise #3:</b> <i>" Neither irony nor sarcasm is argument"</i></li>
+                    <li><b>Exercise #4:</b> <i>"It is a good file that cuts iron without making a noise"</i></li>
+                    <li><b>Exercise #5:</b> <i>"Set string"</i></li>
+                    <li><b>Exercise #6:</b> <i>"You are so much sunshine in every square inch"</i></li>
+                    <li><b>Exercise #7:</b> <i>"The biggest fan"</i></li>
+                    <li><b>Exercise #8:</b> <i>"Why is it so important to dream? Because, in my dreams we are together"</i></li>
+                    <li><b>Exercise #10:</b> <i>" It is the addition of strangeness to beauty that constitutes the romantic character in art"</i></li>
+                    <li><b>Exercise #11:</b> <i>"Where am I?"</i></li>
+                    <li><b>Exercise #12:</b> <i>" Fizz-Buzz"</i></li>
+                    <li><b>Exercise #13:</b> <i>"Numbers"</i></li>
+                    <li><b>Exercise #14:</b> <i>" strcpy"</i></li>
+                    <li><b>Exercise #15:</b> <i>"Remove duplicates"</i></li>
                 </ul>
             </td>
         </tr>
@@ -215,6 +215,61 @@
             </div>
             </center> </th>
             <td>
+                <h4>General conversation</h4>
+                <ul>
+                    <li>How do you usually deal with a complicated project?</li>
+                    <li>Where do you see yourself, 5 years from now</li>
+                    <li> What are your weaknesses?</li>
+                    <li>Tell me about yourself?</li>
+                    <li>What do you expect from a supervisor?</li>
+                </ul>
+                <h4>Technical conversation</h4>
+                <ul>
+                    <li>Who created the Python programming language?</li>
+                    <li>What is a shell?</li>
+                    <li>What is a syscall?</li>
+                    <li>What's a lambda function in Python?</li>
+                    <li>In what year was Twitter created?</li>
+                    <li>Who wrote vi?</li>
+                    <li>What are arrays in C, and how are they stored in memory?</li>
+                    <li>What's a traceback?</li>
+                    <li> What's the difference between lists and tuples?</li>
+                    <li>What happens when you type <code>ls *.c</code> in Bash?</li>
+                    <li>What is the <code>/etc/passwd</code> file and what is its format</li>
+                    <li>What is a virtual machine?</li>
+                    <li>Is Python interpreted or compiled?</li>
+                    <li>What is a recursive function?</li>
+                    <li>What are the first 4 lines of the “Zen of Python” by Tim Peters</li>
+                    <li>What's a docstring?</li>
+                    <li>Tell me all the syscalls you know of</li>
+                </ul>
+                <h4></h4>
+                <ul>
+                    <li><b>Exercise #1:</b> <i>"Multiply by using map"</i> </li>
+                    <li><b>Exercise #2:</b> <i>"The eggs of the brood need to be an odd number"</i> </li>
+                    <li><b>Exercise #3:</b> <i>"There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important"</i> </li>
+                    <li><b>Exercise #4:</b> <i>" Fizz-Buzz"</i> </li>
+                    <li><b>Exercise #5:</b> <i>" Print a list of integers... in reverse!"</i> </li>
+                    <li><b>Exercise #6:</b> <i>"My first toolbox!"</i> </li>
+                    <li><b>Exercise #7:</b> <i>"Average"</i> </li>
+                    <li><b>Exercise #8:</b> <i>" I feel like I am diagonally parked in a parallel universe"</i> </li>
+                    <li><b>Exercise #9:</b> <i>"What’s new"</i> </li>
+                    <li><b>Exercise #10:</b> <i>"100"</i> </li>
+                    <li><b>Exercise #11:</b> <i>"strncpy"</i> </li>
+                    <li><b>Exercise #12:</b> <i>"00...99"</i> </li>
+                    <li><b>Exercise #13:</b> <i>" List to dictionary (Python)"</i> </li>
+                    <li><b>Exercise #14:</b> <i>"Search and replace"</i> </li>
+                    <li><b>Exercise #15:</b> <i>"Print integer"</i> </li>
+                    <li><b>Exercise #16:</b> <i>" I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"</i> </li>
+                    <li><b>Exercise #17:</b> <i>"Bits list"</i> </li>
+                    <li><b>Exercise #18:</b> <i>"Delete at index (C)"</i> </li>
+                    <li><b>Exercise #19:</b> <i>"It is a good file that cuts iron without making a noise"</i> </li>
+                    <li><b>Exercise #20:</b> <i>"Delete by value"</i> </li>
+                    <li><b>Exercise #21:</b> <i>"Hidden files"</i> </li>
+                    <li><b>Exercise #22:</b> <i>"islower"</i> </li>
+                    <li><b>Exercise #23 :</b> <i>"Rotate to the left"</i> </li>
+                    <li><b>Exercise #24 :</b> <i>"Only by 2"</i> </li>
+                </ul>
             </td>
         </tr>
         <tr>
