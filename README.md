@@ -115,6 +115,44 @@
             </div>
             </center></th>
             <td>
+                <h4>General conversation</h4>
+                <ul>
+                    <li>What do you expect from a supervisor?</li>
+                    <li>Where do you see yourself, 5 years from now</li>
+                    <li>Tell me about you?</li>
+                    <li>How do you usually deal with a complicated project?</li>
+                </ul>
+                <h4>Technical conversation</h4>
+                <ul>
+                    <li>What are man pages?</li>
+                    <li> How do you redirect the standard error of a command to a file?</li>
+                    <li>What is a recursive function?</li>
+                    <li>What are arrays in C, and how are they stored in memory?</li>
+                    <li>Who wrote vi?</li>
+                    <li>What is the <code>/etc/passwd</code> file and what is its format</li>
+                    <li>What is a shell?</li>
+                    <li>What is the <code>/tmp</code> directory?</li>
+                    <li>What is a virtual machine?</li>
+                    <li> In C, what is the operator used to get the size, in bytes, of a type?</li>
+                    <li>What happens when you type <code>ls *.c</code> in Bash?</li>
+                    <li>In what year was Twitter created?</li>
+                    <li>What is a shebang?</li>
+                </ul>
+                <h4>Hands-on</h4>
+                <ul>
+                    <li><b>Exercise #1:</b> <i>"This report, by its very length, defends itself against the risk of being read"</i> </li>
+                    <li><b>Arrays are not pointers</b> <i>"Arrays are not pointers"</i></li>
+                    <li><b>Exercise #2:</b> <i>" Inception. Now, before you bother telling me it's impossible..."</i> </li>
+                    <li><b>Exercise #3:</b> <i>"I feel like I am diagonally parked in a parallel universe"</i></li>
+                    <li><b>Exercise #4</b> <i>"She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget"</i><li>
+                    <li><b>Exercise #5</b> <i>" A to Z"</i><li>
+                    <li><b>Exercise #6</b> <i>" Twitter"</i><li>
+                    <li><b>Exercise #7</b> <i>"The eggs of the brood need to be an odd number"</i><li>
+                    <li><b>Exercise #8</b> <i>"Hidden files"</i><li>
+                    <li><b>Exercise #9</b> <i>"Confused smiley"</i><li>
+                    <li><b>Exercise #10</b> <i>" I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"</i><li>
+                    <li><b>Exercise #11</b> <i>" Fizz-Buzz"</i><li>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -125,6 +163,44 @@
             </div>
             </center> </th>
             <td>
+                <h4></h4>
+                <ul>
+                    <li></li>
+                </ul>
+                <h4>Technical conversation</h4>
+                <ul>
+                    <li> What does RTFM stand for?</li>
+                    <li>Who created Twitter?</li>
+                    <li>What happens when you type `gcc main.c`?</li>
+                    <li> What is a pointer?</li>
+                    <li>What is a nested loop in C?</li>
+                    <li>Who wrote Emacs?</li>
+                    <li>What is the difference between Git and GitHub?</li>
+                    <li>How do you redirect the standard output of a command to a file?</li>
+                    <li>What does LTS stand for? What is the difference between an LTS version and a standard release of Ubuntu?</li>
+                    <li>What do you usually find in /boot?</li>
+                    <li>What is the command used to change the permissions of a file or directory on Unix and Linux?</li>
+                    <li>What is the <code>/etc/shadow</code> file and what is its format?</li>
+                    <li>What is the difference between a hard link and a symbolic link?</li>
+                    <li>Who created the C programming language?</li>
+                </ul>
+                <h4></h4>
+                <ul>
+                    <li><b>Exercise #</b> <i>"What’s new"</i></li>
+                    <li><b>Exercise #</b> <i>"I do not fear computers. I fear the lack of them"</i></li>
+                    <li><b>Exercise #</b> <i>" Neither irony nor sarcasm is argument"</i></li>
+                    <li><b>Exercise #</b> <i>"It is a good file that cuts iron without making a noise"</i></li>
+                    <li><b>Exercise #</b> <i>"Set string"</i></li>
+                    <li><b>Exercise #</b> <i>"You are so much sunshine in every square inch"</i></li>
+                    <li><b>Exercise #</b> <i>"The biggest fan"</i></li>
+                    <li><b>Exercise #</b> <i>"Why is it so important to dream? Because, in my dreams we are together"</i></li>
+                    <li><b>Exercise #</b> <i>" It is the addition of strangeness to beauty that constitutes the romantic character in art"</i></li>
+                    <li><b>Exercise #</b> <i>"Where am I?"</i></li>
+                    <li><b>Exercise #</b> <i>" Fizz-Buzz"</i></li>
+                    <li><b>Exercise #</b> <i>"Numbers"</i></li>
+                    <li><b>Exercise #</b> <i>" strcpy"</i></li>
+                    <li><b>Exercise #</b> <i>"Remove duplicates"</i></li>
+                </ul>
             </td>
         </tr>
         <tr>
