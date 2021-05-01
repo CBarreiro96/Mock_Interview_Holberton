@@ -12,7 +12,7 @@
             <th align="center">Content </th>
         </tr>
         <tr>
-            <th align="center">0x00_Shell</th>
+            <th align="center"><center>0x00_Shell</center></th>
             <td>
                 <h4>General conversation</h4>
                 <ul>
@@ -34,7 +34,7 @@
             </td>
         </tr>
         <tr>
-            <th align="center">0x01_Shell_C</th>
+            <th align="center"><center>0x01_Shell_C</center></th>
             <td>
                 <h4>General conversation</h4>
                 <ul>
@@ -67,12 +67,86 @@
             </td>
         </tr>
         <tr>
-            <th align="center">0x02_Shell_C</th>
-            <td align="center"></td>
+            <th align="center"><center>0x02_Shell_C</center></th>
+            <td>
+                <h4>General conversation</h4>
+                <ul>
+                    <li>What would be your perfect type of Company to work in?</li>
+                    <li>How do you usually deal with a complicated project?</li>
+                    <li>Tell me about the last time a co-worker or a peer at school got mad at you and how did you react?</li>
+                    <li>Tell me about you?</li>
+                </ul>
+                <h4>Technical conversation</h4>
+                <ul>
+                    <li>What is the Linux command to translate or delete characters?</li>
+                    <li> In C, what is the operator used to get the size, in bytes, of a type?</li>
+                    <li>What do you find in the <code>/dev</code> directory?</li>
+                </ul>
+                <h4>Code</h4>
+                <ul>
+                    <li><b>Exercise #1:</b> <i>"Numbers"</i></li>
+                    <li><b>Exercise #2:</b> <i>" It must be in that file"</i></li>
+                    <li><b>Exercise #3:</b> <i>"Being unique is better than being perfect"</i></li>
+                    <li><b>Exercise #4: </b> <i>" In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A"</i></li>
+                    <li><b>Exercise #5:</b> <i>"I'd prefer the first ones actually"</i></li>
+                    <li><b>Exercise #6:</b> <i>"Hexadecimal"</i></li>
+                    <li><b>Exercise #7:</b> <i>"10 x alphabet"</i></li>
+                </ul>
+            </td>
         </tr>
         <tr>
-            <th align="center">0x03_Shell_C</th>
-            <td align="center"></td>
+            <th align="center"><center>0x03_Shell_C</center></th>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th align="center"><center>0x04 - Shell, C</center> </th>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th align="center"><center> 0x05 - Shell, C, Python </center> </th>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th align="center"><center> 0x06 - Shell, C, Python  </center> </th>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th align="center"><center> 0x07 - Google interview </center> </th>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th align="center"><center> 0x08 - Lyft interview </center> </th>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th align="center"><center>  0x09 - Netflix interview </center> </th>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th align="center"><center>  0x0A - Linkedin interview - SRE </center> </th>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th align="center"><center> 0x00. Mock Interview</center></th>
+            <td>
+                <h4>General COnversation</h4>
+                <ul>
+                    <li>Name a time you helped a coworker out</li>
+                    <li>Tell me three word that define you?</li>
+                </ul>
+                <h4>Whiteboard</h4>
+                <ul>
+                    <li>Shortest Palindrome</li>
+                </ul>
+            </td>
         </tr>
     </table>
 </div>

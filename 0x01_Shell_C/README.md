@@ -5,42 +5,42 @@
 ## :memo: Activities :memo:
 ### <u>Technical Conversation</u>
 <details>
-    <summary><b>1⃣ Who created the Python programming language?</b></summary>
+    <summary><b>💥 Who created the Python programming language?</b></summary>
     
     Guido van Rossum
 </details>
 <details>
-    <summary><b>2⃣ What happens when you type <code>gcc main.c</code>?<b></summary>
+    <summary><b>💥 What happens when you type <code>gcc main.c</code>?<b></summary>
     
     xxx
 </details>
 <details>
-    <summary><b>3⃣ When do you use <code>man</code>, and when do you use <code>help</code>?<b></summary>
+    <summary><b>💥 When do you use <code>man</code>, and when do you use <code>help</code>?<b></summary>
     
     xxx
 </details>
 <details>
-    <summary><b>4⃣ What do you find in the <code>/var/log</code> directory?<b></summary>
+    <summary><b>💥 What do you find in the <code>/var/log</code> directory?<b></summary>
     
     xxx
 </details>
 <details>
-    <summary><b>5⃣ What is the Linux command to translate or delete characters?<b></summary>
+    <summary><b>💥 What is the Linux command to translate or delete characters?<b></summary>
     
     xxx
 </details>
 <details>
-    <summary><b>6⃣ How would you delete a file on Linux?<b></summary>
+    <summary><b>💥 How would you delete a file on Linux?<b></summary>
     
     xxx
 </details>
 <details>
-    <summary><b>7⃣ In C, what is the operator used to get the size, in bytes, of a type?<b></summary>
+    <summary><b>💥 In C, what is the operator used to get the size, in bytes, of a type?<b></summary>
     
     xxx
 </details>
 <details>
-    <summary><b>8⃣ What does <code>gcc</code> stand for?<b></summary>
+    <summary><b>💥 What does <code>gcc</code> stand for?<b></summary>
     
     xxx
 </details>
