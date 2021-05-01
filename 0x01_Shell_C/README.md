@@ -5,7 +5,7 @@
 ## :memo: Activities :memo:
 ### <u>Technical Conversation</u>
 <details>
-    <summary><b><font color="red">1.</font> Who created the Python programming language?<b></summary>
+    <summary><b><p style='color:red'>1.</p> Who created the Python programming language?<b></summary>
     
     Guido van Rossum
 </details>
