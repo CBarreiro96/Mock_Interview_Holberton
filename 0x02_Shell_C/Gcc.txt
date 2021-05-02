@@ -1,9 +1,0 @@
-It is a compiler of project GNU requires the follow step like:
-1)Preproccesor:
-* Remove comment in yuor code
-* Replaces macros. The macros will be replace to C proproccesor with their definitions throughout the program.
-*Include header file(.h). This contains all file of declaration (function, macros) that can be substituted into your program.
-2) Assembler:
-Convert the code into the pure binary or machine language
-3) Linker:
-And in this last step, object code becomes executable
