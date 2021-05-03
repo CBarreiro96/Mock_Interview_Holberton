@@ -7,5 +7,11 @@
 ---
 ## Technical conversation
 <details>
-    <summary><b>💥</b></summary>
+    <summary><b>💥What is the Linux command to translate or delete characters?</b></summary>
+</details>
+<details>
+    <summary><b>💥In C, what is the operator used to get the size, in bytes, of a type?</b></summary>
+</details>
+<details>
+    <summary><b>💥What do you find in the <code>/dev</code> directory?</b></summary>
 </details>

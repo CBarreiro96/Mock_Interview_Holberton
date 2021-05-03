@@ -188,7 +188,7 @@
                     <li>What is the difference between a hard link and a symbolic link?</li>
                     <li>Who created the C programming language?</li>
                 </ul>
-                <h4></h4>
+                <h4>Hands-on</h4>
                 <ul>
                     <li><b>Exercise #1:</b> <i>"What’s new"</i></li>
                     <li><b>Exercise #2:</b> <i>"I do not fear computers. I fear the lack of them"</i></li>
@@ -243,7 +243,7 @@
                     <li>What's a docstring?</li>
                     <li>Tell me all the syscalls you know of</li>
                 </ul>
-                <h4></h4>
+                <h4>Hands-on</h4>
                 <ul>
                     <li><b>Exercise #1:</b> <i>"Multiply by using map"</i> </li>
                     <li><b>Exercise #2:</b> <i>"The eggs of the brood need to be an odd number"</i> </li>
