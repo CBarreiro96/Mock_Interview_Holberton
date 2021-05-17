@@ -35,3 +35,26 @@
 <details>
     <summary><b>💥What’s the significance of overwriting a method in OOP?</b></summary>
 </details>
+
+## 🏋 Problem 🏋
+### 1) Maximum sum subarray
+Find the maximum sum of all subarrays of a given array.
+
+* The max sum subarray is at least of size 1
+* The max sum subarray can be the initial array
+* Numbers are not ordered and can be either positive or negative
+* Your function should return the array AND the sum
+
+Find the subarray and the sum
+
+#### Example
+##### INPUT
+
+```python
+max_sum = 19
+List = [1, -3, 2, -5, 7, 6, -1, -4, 11, -23]
+```
+##### OUTPUT
+```shell
+=> max sum is 19: [7, 6, -1, -4, 11]
+```
